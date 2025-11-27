@@ -170,6 +170,11 @@ Lancer l'application sur un émulateur ou appareil :
 
     La page de détails a un design moderne avec des cards colorées
 
+<img width="495" height="807" alt="Capture d&#39;écran 2025-11-27 104526" src="https://github.com/user-attachments/assets/06dc82a9-b539-4a96-b645-f7dcde20ae1b" />
+
+
+
+
 
 
 
