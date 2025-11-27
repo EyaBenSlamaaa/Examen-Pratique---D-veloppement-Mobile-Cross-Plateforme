@@ -169,3 +169,10 @@ Lancer l'application sur un émulateur ou appareil :
     Le Drawer permet de naviguer facilement entre les pages
 
     La page de détails a un design moderne avec des cards colorées
+
+
+
+
+
+    <img width="495" height="807" alt="image" src="https://github.com/user-attachments/assets/3e05d5d4-1d56-4c4e-ba1b-a4fbe74f3dc4" />
+
